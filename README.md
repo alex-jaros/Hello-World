@@ -8,12 +8,13 @@ This repository serves as a starting point for anyone new to GitHub and version 
 
 ## How to Run Program
 
-To run the "Hello, World!" program, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/Hello-World.git
+Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
+   
 ## Files Used
 
 None Yet 💁‍♂️

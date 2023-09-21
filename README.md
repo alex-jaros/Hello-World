@@ -4,17 +4,12 @@
 
 ## Description 
 
-This repository serves as a starting point for anyone new to GitHub and version control. It contains a simple "Hello, World!" program written in Python. The purpose of this project is to help beginners understand the basics of creating a repository, making commits, and pushing changes to GitHub.
+This repository serves as a starting point for anyone new to GitHub and version control. It contains a simple "Hello, World!" The purpose of this project is to help beginners understand the basics of creating a repository, making commits, and pushing changes to GitHub.
 
 ## How to Run Program
 
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
+Firstly, to run the program...
+
 ## Files Used
 
 None Yet 💁‍♂️

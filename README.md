@@ -20,4 +20,4 @@ None Yet 💁‍♂️
 
 ## Versioning
 
-Current Version
+1. Current Version
